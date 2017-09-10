@@ -2,8 +2,20 @@ body{
     color:white;
     background:black;
     font-size: 3em;
+    width:100%;
+    margin: auto;
 }
+h3{
+    font-size: 1.2em;
+}
+h4{
+    font-size: 1em;
+}
+
+
  .blue{
   color: #BABAF0;
+  float: left;
 }
+
 

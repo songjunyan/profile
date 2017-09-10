@@ -2,8 +2,12 @@ body{
     color:white;
     background:black;
     /* font-size: 3em; */
-    width:95%;
+    width:100%;
     margin: auto;
+}
+
+p{
+    width:100%
 }
 h3{
     /* font-size: 1.2em; */
